@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="/share_jar/lib/commons-lang-2.4.jar"/>
 	<classpathentry kind="lib" path="/share_jar/lib/ezmorph-1.0.6.jar"/>
 	<classpathentry kind="lib" path="/share_jar/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/share_jar/lib/dom4j-1.6.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

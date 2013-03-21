@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<actionhandler>
+		<property name="game">com.git.handler.GameHandler</property>
+		<propetry name="info">com.git.handler.InfoHandler</propetry>
+	</actionhandler>
+	<database>
+		<property name="name">root</property>
+		<property name="password">212192</property>
+		<property name="dbUrl">jdbc:mysql://localhost:3306/test</property>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+	</database>
+</config>
